@@ -1,0 +1,15 @@
+# Ignore research drafts
+paper_draft/
+simulation_code/
+datasets/
+experiments/
+notes/
+private/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
