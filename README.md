@@ -16,6 +16,7 @@ official publication of the research paper.
 
 ## Author
 Tanishq Meshram  
+Dr.Richa Kumari
 Computer Science - Cybersecurity
 
 Research Interests:
